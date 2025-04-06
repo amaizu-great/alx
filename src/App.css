@@ -1,0 +1,7 @@
+* {
+  outline: 0;
+}
+.profile {
+  background: url("../public/me1.jpeg") top center no-repeat;
+  background-size: cover;
+}

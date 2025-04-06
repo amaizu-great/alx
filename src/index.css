@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+@theme {
+  --color-Leo: #543EE0;
+  --color-Rex: #111111;
+  --color-Wayne: #626262;
+  --font-Poppins: 'Poppins', sans-serif;
+  --font-DM-Sans: 'DM Sans', sans-serif;
+}
